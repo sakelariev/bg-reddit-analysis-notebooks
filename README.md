@@ -1,5 +1,5 @@
 # Анализ на /r/bulgaria
-Това repository вкючва всичкият код и инструкции за възпроизвеждане от анализа на /r/bulgaria, описан в [този блог пост]([https://ivaylo.xyz](https://ivaylo.xyz/posts/2024-04-11-reddit-analysis/)).
+Това repository вкючва всичкият код и инструкции за възпроизвеждане от анализа на /r/bulgaria, описан в [този блог пост]([https://ivaylo.xyz](https://ivaylo.xyz/posts/2024-04-11-reddit-analysis/).
 
 ## Описание
 За да извлека данни от Reddit до средата на миналата година ползвах библиотеката `pushshift` , която разчиташе на официалното API на Reddit под повърхността.
